@@ -7,7 +7,7 @@
 
 int main() {
     double operand1; //declare a double for the user's first operand
-    double operand2; //delcare a double for the user's second operand
+    double operand2; //declare a double for the user's second operand
     std::string operation; //declare a string for the user's operator/operation
 
     //tell the user to input an operator to create a mathematical operation and two operands to complete the operation with
